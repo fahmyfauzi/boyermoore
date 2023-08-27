@@ -1,5 +1,7 @@
 # Rancang Bangun Aplikasi Pencarian Kerja Berbasis Web Menggunakan Algoritma Boyer-Moore
-Melanjutkan proyek Kerja Praktik untuk penelitian Perbandingan algoritma brute force dengan algoritma boyer-moore pada aplikasi pencarian kerja berbasis web.
+Melanjutkan proyek Kerja Praktik untuk penelitian Perbandingan algoritma brute force dengan algoritma boyer-moore pada aplikasi pencarian kerja berbasis web. 
+
+jurnal : [Perbandingan Algoritma Brute Force Dengan Algoritma Boyer-Moore Pada Aplikasi Pencarian Kerja Berbasis Web](https://ejurnal.dipanegara.ac.id/index.php/jusiti)
 
 ## features
 - Pencarian berdasarkan title dan menghitung proses pencarian menggunakan algorimta boyer-moore
