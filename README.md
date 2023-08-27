@@ -79,10 +79,12 @@ jurnal : [Perbandingan Algoritma Brute Force Dengan Algoritma Boyer-Moore Pada A
 ## screanshot
 
 1. Hasil Pencarian menggunakan Boyer-Moore
-   ![Untitled video - Made with Clipchamp (7)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/09e29f62-c336-414d-8cbd-8baa55dea6c8)
+    ![Untitled video - Made with Clipchamp (7)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/3d92ce2d-4065-4571-8d02-ae24df8e1cb5)
+
 
     
 2. Hasil Pencarian menggunakan Brute Force
-   ![Untitled video - Made with Clipchamp (9)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/f1c3dfea-5044-4f5f-88ab-c3efb6294af8)
+    ![Untitled video - Made with Clipchamp (9)](https://github.com/fahmyfauzi/boyermoore/assets/58255031/b706a8f1-4017-45d7-be19-4d96f985448d)
+
 
    
